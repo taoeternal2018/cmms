@@ -12,7 +12,7 @@
                 <li><router-link to="/java/jMeter">jMeter</router-link></li>
                 <li><router-link to="/java/EJB">EJB</router-link></li>
                 <li class="divider"></li>
-                <li><router-link to="/java/isolated">isolated link</router-link>></li>
+                <li><router-link to="/java/isolated">isolated link</router-link></li>
             </ul>
             </li>
             <li><router-link to="/common/vbnet">VB.Net</router-link></li>
