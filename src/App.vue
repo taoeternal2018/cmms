@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <common_header></common_header>
-    <img src="../images/lion.jpg">
+    <br>
     <router-view/>
   </div>
 </template>
@@ -21,6 +21,9 @@ export default {
 *{
   margin:0;
   padding:0;
+}
+common_header{
+  display: block;  
 }
 img{
   width:100px;
